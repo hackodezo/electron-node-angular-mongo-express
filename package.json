@@ -1,0 +1,23 @@
+{
+  "name": "electron-node-express-angular-mongo",
+  "version": "1.0.0",
+  "description": "billings",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "electron-prebuilt": "^1.4.13",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "webpack": "^1.13.1"
+  }
+}
